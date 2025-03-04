@@ -1,5 +1,5 @@
 ###########################################
-# BASE IMAGE
+# BASE IMAGE  | SINGLE-STAGE
 ###########################################
 
 FROM ubuntu AS build
